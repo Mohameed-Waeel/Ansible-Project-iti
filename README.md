@@ -1,6 +1,9 @@
 # Ansible-Project-iti
 This project demonstrates the use of Ansible to automate the deployment and configuration of NGINX web servers across multiple machines hosted in a VMware environment. The playbook ensures a consistent setup across all machines, streamlining the installation, configuration, and management of web servers.
 
+## Deployment Steps
+![Deployment Steps](https://github.com/user-attachments/assets/15609b28-3c16-4775-b49c-f5bcf185e381)
+
 ### Key Features
 - Automated installation of NGINX using Ansible roles.
 - Configuration of the NGINX server block through a Jinja2 template, allowing flexible and customizable setups.
