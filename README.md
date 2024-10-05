@@ -136,3 +136,36 @@ After running the playbook:
    ```bash
    ansible-playbook playbooks/site.yml -vvv
    ```
+
+## Pictures from the project
+
+## 1
+![1](https://github.com/user-attachments/assets/08a9ddd8-3864-438b-9cf8-cfb22553d9c2)
+
+## 2
+![2](https://github.com/user-attachments/assets/764bbc86-1af7-40a3-b3fa-8c00e21a9f05)
+
+## 3
+![3](https://github.com/user-attachments/assets/bc0dc372-192a-4bc4-bf29-34c539b51f00)
+
+## 4
+![4](https://github.com/user-attachments/assets/81358c0d-c8a1-43c3-8548-637514af628b)
+
+## 5
+![5](https://github.com/user-attachments/assets/3595c7c1-f0f8-46f0-8e2c-67948ca405f3)
+
+## 6
+![6](https://github.com/user-attachments/assets/3905a627-02c9-4d94-b160-62a1106c4a7f)
+
+## 7
+![7](https://github.com/user-attachments/assets/561212be-752d-4385-ac39-3ea48b20e0d2)
+
+## 8
+![8](https://github.com/user-attachments/assets/7126b27e-ec61-4cd3-b5b4-1d104d0ef8fe)
+
+## 9
+![9](https://github.com/user-attachments/assets/a6e4ef9b-53aa-4be9-a180-642589c262ce)
+
+## 10
+![10](https://github.com/user-attachments/assets/66a4d469-5ca3-400d-9b46-ad59df6a57d7)
+
